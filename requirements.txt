@@ -1,0 +1,7 @@
+requests
+selenium >=4
+boto3>1
+pandas>=1
+sqlalchemy>=1
+time
+datetime
