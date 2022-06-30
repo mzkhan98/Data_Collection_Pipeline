@@ -6,6 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 import time, datetime
 import pandas as pd
+import os
 import boto3
 import logging
 from botocore.exceptions import ClientError
